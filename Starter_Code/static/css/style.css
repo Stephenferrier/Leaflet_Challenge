@@ -1,0 +1,29 @@
+/* Set Body*/
+body {
+  padding: 0;
+  margin: 0;
+}
+
+/* Set for screen */
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* Legend */
+.legend {
+  line-height: 18px;
+  color: black;
+  background-color: white;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+/* Legend Info*/
+.legend i {
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin-right: 8px;
+}
